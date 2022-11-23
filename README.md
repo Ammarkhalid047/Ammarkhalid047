@@ -1,6 +1,5 @@
 - 👋 Hi, I’m @Ammarkhalid047
 - 👀 I’m interested in Blockchain technologies.
-- 🌱 I’m currently learning hyperledger fabric.
 - 📫 How to reach me: ammar.khalid047@gmail.com
 
 <!---
